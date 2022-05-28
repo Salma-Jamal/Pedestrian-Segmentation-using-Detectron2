@@ -3,6 +3,6 @@ Pedestrian Segmentation using Detectron2  + Segment annotation masks from the ba
 
 * Example Output of Detectron2 <br/> <br/>
 ![Detectron Output](Demo/detectron_output.png)
-* Example Output After Segmenting The object from the background<br/> <br/>
+* Example Output After Segmenting The objects from the background<br/> <br/>
 ![Segmented_Image](Demo/Segmented.png)
 
